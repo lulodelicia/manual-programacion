@@ -68,3 +68,24 @@ familia = ["luca", "feli", "juli", "fernando", "carolina"]
 print(type(familia))
 
 """
+
+"""
+
+TIPO DE DICCIONARIO
+
+DICCIONARIOS(dic): Los diccionarios son tipos de datos que nos permiten
+guardar valores a los que se puede acceder por medio de una clave.
+
+"""
+
+"""
+
+### EJEMPLO TIPO DICCIONARIO
+
+dic = {
+	"nombre":"leonel",
+	"apellido":"messi",
+	"nacionalidad":"argentina"
+}
+print(type(dic))
+"""
