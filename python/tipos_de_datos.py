@@ -20,3 +20,18 @@ print(type(entero))
 coma = 7.2
 print(type(coma))
 """
+
+"""
+
+TIPO CADENA:
+
+Cadenas de caracteres(str): Me permiten guardar caracteres en una cadena.
+
+"""
+
+"""
+### EJEMPLO TIPO CADENA
+
+cadena = "Hola! Soy Luca."
+print(type(cadena))
+"""
