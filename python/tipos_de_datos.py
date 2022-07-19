@@ -4,11 +4,11 @@
 	
 TIPOS NUMERICOS:
 
-	1 - Enteros(int): Representan todos los números enteros 
-	(positivos, negativos y 0), sin coma.
+1 - Enteros(int): Representan todos los números enteros 
+(positivos, negativos y 0), sin coma.
 
-	2 - Con coma(float): Sirve para representar todos los numeros incluidos
-	los numeros con coma.
+2 - Con coma(float): Sirve para representar todos los numeros incluidos
+los numeros con coma.
 
 """
 
@@ -50,4 +50,21 @@ True o False
 
 bool = True
 print(type(bool))
+"""
+
+"""
+
+TIPO LISTA/ARRAY
+
+Lista/Array(list): Las listas nos permiten guardar un conjunto de 
+datos que se pueden repetir y que pueden ser de distintos tipos.
+
+"""
+
+"""
+### EJEMPLO TIPO DE LISTA
+
+familia = ["luca", "feli", "juli", "fernando", "carolina"]
+print(type(familia))
+
 """
