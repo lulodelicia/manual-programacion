@@ -11,3 +11,12 @@ TIPOS NUMERICOS:
 	los numeros con coma.
 
 """
+
+"""
+### EJEMPLO TIPO NUMERICO
+
+entero = 7
+print(type(entero))
+coma = 7.2
+print(type(coma))
+"""
