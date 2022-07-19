@@ -22,3 +22,16 @@ lista.clear()
 
 print(lista)
 """
+
+"""
+# METODO copy()
+## Te devuelve todos los elementos de una lista
+
+lista = ["pepe", "juan", "luca"]
+
+otra_lista = lista.copy()
+
+print(otra_lista)
+print(lista)
+
+"""
