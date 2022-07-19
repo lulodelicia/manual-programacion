@@ -11,3 +11,14 @@ lista.append("julieta")
 print(lista)
 """
 
+
+"""
+# METODO clear()
+## Elimina todos los elementos de una lista
+
+lista = ["julieta", "luca", "felipe"]
+
+lista.clear()
+
+print(lista)
+"""
