@@ -16,7 +16,7 @@ print(mayus)
 ## El metodo join une todos los elementos de una lista y usa el string
 ## como separador
 
-futbol = ["messi", "ronaldo","luca"]
+futbol = ["messi", "ronaldo", "luca"]
 
 string = "pepito"
 
