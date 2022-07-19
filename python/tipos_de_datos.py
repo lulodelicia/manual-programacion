@@ -35,3 +35,19 @@ Cadenas de caracteres(str): Me permiten guardar caracteres en una cadena.
 cadena = "Hola! Soy Luca."
 print(type(cadena))
 """
+
+"""
+
+TIPO BOOLEANOS
+
+Booleano(bool): Los booleanos tienen solamente dos valores:
+True o False
+
+"""
+
+"""
+### EJEMPLO BOOLEANO
+
+bool = True
+print(type(bool))
+"""
