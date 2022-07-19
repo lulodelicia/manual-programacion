@@ -35,3 +35,34 @@ luca = x.lower()
 print(luca)
 """
 
+"""
+# METODO replace()
+##El metodo replace es para remplazar una parte de string por otra
+
+xcx = "me gusta los pachos"
+
+lu = xcx.replace("panchos","hola")
+
+print(lu)
+"""
+
+"""
+#METODO split()
+##El metodo split separa el string en partes y lo vuelve en forma de lista
+futbol = "entraste$a$la$chancha"
+
+l = futbol.split("$")
+
+print(l)
+"""
+
+"""
+# METODO count()
+## el metodo count cuenta cuentas veces esta repetido un string. 
+
+txc = "hola hola chau chau"
+
+repetidas = txc.count("hola")
+
+print(repetidas)
+"""
