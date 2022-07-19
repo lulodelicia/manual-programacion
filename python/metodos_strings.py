@@ -66,3 +66,23 @@ repetidas = txc.count("hola")
 
 print(repetidas)
 """
+
+"""
+#METODO capitalize()
+##El metodo capitalize convierte la primera letra en mayuscula.
+v = "hola me llamo luca"
+
+mayus = v.capitalize()
+
+print(mayus) 
+"""
+
+"""
+# METODO index()
+## el metodo index devuelve la posicion en el string de cierto parametro.
+yu = "hola siuuuuuu"
+
+ye = yu.index("i")
+
+print(ye)
+"""
