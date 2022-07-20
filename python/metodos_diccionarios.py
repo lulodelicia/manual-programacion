@@ -55,3 +55,31 @@ x = dic.get("color")
 
 print(x)
 """
+
+"""
+# METODO keys()
+## Te devuleve una lista de las claves del diccionario
+
+dic = {
+    "color":"rojo",
+    "estatura":180
+}
+
+key = dic.keys()
+
+print(key)
+"""
+
+"""
+# METODO pop()
+## Sirve para eliminar determinado par clave-valor
+
+dic = {
+    "color":"rojo",
+    "estatura":180
+}
+
+dic.pop('color')
+
+print(dic)
+"""
