@@ -70,3 +70,14 @@ x = avengers.index("ironman")
 print(x)
 """
 
+"""
+#METODO insert
+## sirve para agregar un elemento en la posicion que
+## quieras
+
+hola = ["hola ", "buen dia", "buenas noches"]
+
+c = hola.insert(2, "buenas tardes")
+
+print(c)
+"""
