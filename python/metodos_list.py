@@ -81,3 +81,47 @@ c = hola.insert(2, "buenas tardes")
 
 print(c)
 """
+
+"""
+#METODO pop
+## sirve para remover cosas de lista con el indice
+
+cantantes = ["paulo", "camilo", "ice cube"]
+
+cantantes.pop(1)
+
+print(cantantes)
+""" 
+
+"""
+#METODO remove
+## sirve para remover un elemento de la lista
+
+vocales = ["a", "e", "i", "o", "h"]
+
+vocales.remove("h")
+
+print(vocales)
+"""
+
+""" 
+#METODO reverse
+## sirve para dar vuelta la lista
+numeros = ["1", "2", "3", "4"]
+
+numeros.reverse()
+
+print(numeros)
+"""
+
+"""
+#METODO sort
+## sirve para ordenar la lista
+
+kl = ["hola", "buenas tardes", "buenas noches"]
+
+kl.sort()
+
+print(kl)
+
+"""
