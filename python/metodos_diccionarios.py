@@ -83,3 +83,31 @@ dic.pop('color')
 
 print(dic)
 """
+
+"""
+# METODO popitem()
+## Elimina el ultimo elemento del diccionario
+
+dic = {
+    "color":"rojo",
+    "estatura":180
+}
+
+dic.popitem()
+
+print(dic)
+"""
+
+"""
+# METODO values()
+## Devuelve una lista de los valores del diccionario
+
+dic = {
+    "color":"rojo",
+    "estatura":180
+}
+
+val = dic.values()
+
+print(val)
+"""
